@@ -97,3 +97,5 @@ while nextInput !="end":
 #red
 #\33[34m
 #blue
+
+print("hello world")
