@@ -48,3 +48,4 @@ plt.title("Line Graph")
 
 plt.tight_layout()
 plt.show()
+print("hello world")
