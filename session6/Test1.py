@@ -14,3 +14,9 @@ employees= [10,25,15,12]
 plt.bar(departments, employees, color="blue")
 
 plt.show()
+
+ages=[22,25,30,30,31,34,35,36,40,41,42,45,46,50,51,52]
+
+plt.hist(ages, bins=5, color="lightgreen",edgecolor="black")
+
+plt.show()
